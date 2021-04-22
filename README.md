@@ -1,1 +1,3 @@
 # ELT_Project
+
+Data was collected for Global wine information for wine value and wine review for these types. The overall world wide consumption of wine, beer, and spirits was scraped off the web into a text file and then into a dataframe. This was further funneled into containin just the wine information.  The goal is to gather the review, wine ratings, and overall consumption to compare the wine quality to the world consumption if there is a relationship there.
